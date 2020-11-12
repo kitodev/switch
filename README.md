@@ -3,4 +3,4 @@ Switch Video Communications
 
 # About Switch
 
-Switch is a communications technology. It provides videotelephony and online chat services through a cloud-based peer-to-peer software platform and is used for teleconferencing, telecommuting, distance education, and social relations.
+Switch is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars.
