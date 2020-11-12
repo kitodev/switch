@@ -1,4 +1,4 @@
-# switch
+# Switch
 Switch Video Communications
 
 # About Switch
